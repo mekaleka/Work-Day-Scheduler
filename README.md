@@ -6,4 +6,4 @@ This Day Planner saves user imputed data into the current hour of the day that t
 
 Michael J. Plichta
 
-[Link to deployed App](https://github.com/mekaleka/Work-Day-Scheduler)
+[Link to deployed App](https://mekaleka.github.io/work-day-scheduler/)
